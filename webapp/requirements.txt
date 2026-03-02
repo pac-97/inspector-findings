@@ -1,0 +1,8 @@
+flask
+pandas
+openpyxl          # for Excel export
+pywin32           # optional, for Outlook compose (remove if not needed)
+waitress          # optional, a production-grade server for Windows
+streamlit==1.41.1
+pandas==2.2.3
+openpyxl==3.1.5
